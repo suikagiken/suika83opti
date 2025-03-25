@@ -19,7 +19,7 @@ suika83optiはロースタッガードの一体型エルゴキーボードです
 
 ## Overview
 
-suika83opti is a row-staggered ergonomic keyboard with 85 keys. It has function keys or arrow keys, which are omitted in compact keyboards, making it easy to switch from a conventional full keyboard.
+suika83opti is a row-staggered ergonomic keyboard with 83 keys. It has function keys or arrow keys, which are omitted in compact keyboards, making it easy to switch from a conventional full keyboard.
 
 * Keyboard Maintainer: [suikagiken](https://github.com/suikagiken)
 * Hardware Availability: Available at [booth](https://suikagiken.booth.pm/).
